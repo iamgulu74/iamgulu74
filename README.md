@@ -109,6 +109,6 @@
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:bc8cff,100:0d1117&height=120&section=footer" width="100%"/>
 
-<sub>Made with ❤️ by Jasaswi Das · AI/ML Engineer</sub>
+
 
 </div>

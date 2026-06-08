@@ -91,7 +91,8 @@
 </div>
 
 ---
-
+## contribution graph
+![Snake animation](https://raw.githubusercontent.com/iamgulu74/iamgulu74/output/github-contribution-grid-snake.svg)
 
 ## ✍️ Random Dev Quote
 

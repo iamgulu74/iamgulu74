@@ -19,20 +19,6 @@
 
 ---
 
-## 💫 About Me
-
-```python
-class JasaswiDas:
-    def __init__(self):
-        self.name       = "Jasaswi Das"
-        self.role       = "AI / ML Engineer"
-        self.location   = "India 🇮🇳"
-        self.passion    = ["Intelligent Systems", "Deep Learning", "Real-World AI"]
-        self.contact    = "jasaswid83@gmail.com"
-
-    def say_hi(self):
-        print("Hi! I love building things that think. 🤖")
-```
 
 > Hi, I'm **Jasaswi Das** — an AI/ML engineer passionate about building intelligent systems and solving real-world problems.
 
@@ -106,19 +92,6 @@ class JasaswiDas:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamgulu74/iamgulu74/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamgulu74/iamgulu74/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamgulu74/iamgulu74/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
 
 ## ✍️ Random Dev Quote
 

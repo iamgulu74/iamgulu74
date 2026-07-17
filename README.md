@@ -24,7 +24,7 @@
 
 ---
 ...
-## 🌐 Socials...
+## 🌐 Socials..
 
 <div align="center">
 
